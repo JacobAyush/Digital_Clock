@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-image: url("https://static.euronews.com/articles/stories/05/11/96/34/1440x810_cmsv2_f011c436-f441-5294-98c9-dc907789220a-5119634.jpg");
+    object-fit: contain;
+}
+
+#time{
+    margin: 300px;
+}
+
+b{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
